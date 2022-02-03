@@ -1,0 +1,17 @@
+.border-bottom-dark{
+    border-bottom: 1px solid rgba(41, 41, 41, 1);
+}
+
+.td {
+    margin-top: 80px;
+}
+
+#carouselExampleCaptions img{
+    height: 500px;
+}
+
+.ft{
+    background-color: black;
+    text-align: center;
+    color: white;
+}
